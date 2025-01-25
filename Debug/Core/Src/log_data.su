@@ -1,0 +1,3 @@
+../Core/Src/log_data.c:7:6:LogDataToSD	1208	static
+../Core/Src/log_data.c:35:6:SaveCalibrationFactorToSD	1192	static
+../Core/Src/log_data.c:58:7:LoadCalibrationFactorFromSD	1192	static

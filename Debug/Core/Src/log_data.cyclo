@@ -1,3 +1,0 @@
-../Core/Src/log_data.c:7:6:LogDataToSD	3
-../Core/Src/log_data.c:35:6:SaveCalibrationFactorToSD	3
-../Core/Src/log_data.c:58:7:LoadCalibrationFactorFromSD	6

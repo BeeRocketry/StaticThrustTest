@@ -1,7 +1,0 @@
-../Core/Src/hx711.c:3:6:hx711_delay	2
-../Core/Src/hx711.c:8:6:HX711_Init	1
-../Core/Src/hx711.c:35:6:HX711_Init_Deb	1
-../Core/Src/hx711.c:63:6:HX711_Calibrate	2
-../Core/Src/hx711.c:92:10:HX711_Read	3
-../Core/Src/hx711.c:117:7:HX711_GetWeight	1
-../Core/Src/hx711.c:123:6:ProcessWeightReading	1
